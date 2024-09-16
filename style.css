@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ion-icon{
+color: green;
+font-size: 30px;
+}
+
+
+h1 {
+    font-size: 48px;
+}
+
+.business{
+    background-color: rgb(35, 128, 81) !important;
+}
+
+.just{
+    margin-top: 100px !important;
+}
+
+.card-bottom{
+    background-color: rgb(219, 207, 207) !important;
+    border: none !important;
+}
+
+.just2{
+    margin-top: 125px !important;
+}
+
+.price{
+    font-size: 2.5rem;
+}
+
+.pcard{
+    font-size: 15px;
+    color: rgb(156, 155, 155) !important;
+}
